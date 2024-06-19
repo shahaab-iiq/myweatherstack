@@ -1,0 +1,28 @@
+{
+    "name": "myweatherstack",
+    "version": "1.0.0",
+    "description": "SDK for Weatherstack API",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/shahaab-iiq/myweatherstack.git"
+    },
+    "keywords": [
+        "weather",
+        "api",
+        "sdk",
+        "weatherstack"
+    ],
+    "author": "Shahaab",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.1"
+    },
+    "bugs": {
+        "url": "https://github.com/shahaab-iiq/myweatherstack/issues"
+    },
+    "homepage": "https://github.com/shahaab-iiq/myweatherstack#readme"
+}
